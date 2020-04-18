@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>28.jpg</filename>
+	<path>C:\Users\Shubham Ekapure\Desktop\panda-model-master\ANIMALS\train\28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>27</ymin>
+			<xmax>733</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>
